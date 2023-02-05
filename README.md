@@ -1,6 +1,3 @@
-- Hi
+# Hello and welcome to my profile!
 
-<!---
-Leokratis/Leokratis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Super secret things happen here. If you don't have access to them then I guess... Sucks to be you. If you do have access though have fun browsing my profile.
